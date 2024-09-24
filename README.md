@@ -1,4 +1,4 @@
-# pubstuff
+# css-sens-converter
 
 
 sensitivity converter for counter strike games
